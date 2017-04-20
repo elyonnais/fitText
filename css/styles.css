@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+
+
+/* Styling */
+body {
+    background: rgba(93, 98, 97, 0.22);
+}
+
+h2 {
+  color: #a10022;
+  font-size: 6em;
+  text-align: center;
+  font-family: 'Fredoka One', arial;
+}
