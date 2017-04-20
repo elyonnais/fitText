@@ -1,2 +1,2 @@
 // Scripts
-$('h2').fitText(.7);
+$('h1').fitText(.7);
